@@ -5,7 +5,7 @@ En övning som du kan använda för att hjälpa klassen att lära känna varandr
 
 2. **Tre Tekniska Fakta:** Du ska dela med sig av tre tekniska fakta om dig själv. Det kan vara något du är duktig på inom IT, din favoritteknologiprodukt, eller en intressant teknisk erfarenhet du har haft.
 
-3. **Personligt Intresse:** Efter att ha delat tekniska fakta ska varje du berätta om ett personligt intresse eller hobby som inte är relaterat till IT. Det kan vara allt från sport, musik, resor, eller konst.
+3. **Personligt Intresse:** Efter att ha delat tekniska fakta ska du berätta om ett personligt intresse eller hobby som inte är relaterat till IT. Det kan vara allt från sport, musik, resor, eller konst.
 
 4. **Skapa en Kort Presentation:** Du får några minuter att sammanställa en kort presentation med hjälp av din teknik-titel, tekniska fakta och personliga intresse. Du kan använda bilder, diagram eller andra visuella hjälpmedel om du vill.
 
