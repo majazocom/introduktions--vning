@@ -10,3 +10,5 @@ En övning som du kan använda för att hjälpa klassen att lära känna varandr
 4. **Skapa en Kort Presentation:** Du får några minuter att sammanställa en kort presentation med hjälp av din teknik-titel, tekniska fakta och personliga intresse. Du kan använda bilder, diagram eller andra visuella hjälpmedel om du vill.
 
 5. **Presentationer för Klassen:** Varje student ska presentera sin korta presentation för resten av klassen. Vilket ger er en möjlighet att dela era tekniska kunskaper och personliga intressen samtidigt som det hjälper er att lära känna varandra bättre.
+
+[Exempel](https://www.figma.com/file/TpbZK8jpqpeGQAWObbge2R/Untitled?type=design&node-id=0-1&mode=design&t=vlw4f4XuikyXXoUU-0)
